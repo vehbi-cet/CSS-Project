@@ -1,0 +1,57 @@
+.şl{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  }
+ .cl{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 6%;
+  margin-right: 6%;
+  }
+ .ortala {
+  margin-left: 42%;
+  margin-right:0%;
+  }
+  .djfa{
+    margin-left: 1%;
+  }
+  .bcg{
+    background-color: rgb(231, 229, 229);
+    margin-left: 7%;
+    margin-right: 7%;
+  }
+  .bkjl{
+    margin-left: 40%;
+    margin-bottom: 0%;
+    margin-top: 0.2%;
+    height: 2%;
+  }
+  .genel{
+    display: flex;
+    justify-content: space-between;
+  }
+  .sol-taraf{
+    margin-left: 9%;
+  }
+  .sağ-taraf{
+    margin-right: 7%;
+    margin-top: 0%;
+    margin-bottom: 1%;
+  }
+  .arama-çubuğu{
+    margin-bottom: 0%;
+    text-align: center;
+  }
+  .kutucuk-arası-mesafe{
+    margin-left: 40%;
+  }
+  .link-bcg{
+    background-color: #70CCC2;
+    margin-left: 7%;
+    margin-right: 7%;
+  }
+  .orta{
+    margin-top: 1%;
+  }
