@@ -1,0 +1,30 @@
+.text-center {
+    text-align: center;
+}
+.fs-50 {
+    font-size: 50px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.fs-15{
+    font-size: 15px;
+}
+.fw{
+    font-weight: 700;
+}
+.text-brown{
+    color: brown;
+}
+.text-blue{
+    color: blue;
+}
+.text-yellow{
+    color: rgb(4, 23, 121);
+}
+.text-yel{
+    color: rgb(128, 128, 7);
+}
+.text-red {
+    color: red;
+}
